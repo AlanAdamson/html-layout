@@ -1,0 +1,28 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.wrapper{
+  width: 33.33%;
+  height: 100%;
+}
+
+.blue{
+  background: #4a90e2;
+}
+
+.seafoam{
+  background: #50e3c2;
+}
+
+.puke{
+  background: #b8e986;
+
+}
+
+.cherry{
+  background: #d0021b;
+
+}
