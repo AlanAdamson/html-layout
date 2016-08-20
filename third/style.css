@@ -26,6 +26,8 @@ html, body{
   padding: 10px;
   text-align: left;
   justify-content: center;
+  min-height: 200px;
+  font: 25px Arial;
 }
 
 .blue-bar{
