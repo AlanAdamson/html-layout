@@ -1,20 +1,28 @@
-#container {
-
+html, body{
+  padding: 0;
+  margin: 0;
 }
 
-#content {
-  width: 80%;
+body{
+  background: #eee;
+}
+
+header{
   height: 100px;
+  background: #555;
 }
 
-header {
-  background-color: #555;
-  width: 100%;
-  height: 50px;
+.wrapper{
+  width: 1100px;
+  margin: 0 auto;
 }
 
-footer {
-  background-color: #000;
-  width: 80%;
+.content{
+  height: calc(100vh - 150px);
+  background: #fff;
+}
+
+footer{
   height: 50px;
+  background: #111;
 }
